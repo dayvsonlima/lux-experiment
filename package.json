@@ -1,0 +1,21 @@
+{
+  "name": "lux-node-like-rails",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "lux serve",
+    "test": "lux test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "6.17.0",
+    "babel-preset-lux": "2.0.2",
+    "knex": "0.12.6",
+    "lux-framework": "1.2.2",
+    "sqlite3": "3.1.13"
+  },
+  "engines": {
+    "node": ">= 6.0"
+  }
+}
